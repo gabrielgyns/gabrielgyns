@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 😄
 
-My name is Gabriel Silva Soares from Brazil (🇧🇷). I work as a Software Developer at **Invillia in a PagSeguro/PagBank**'s project. I am currently focusing my studies on the Front-end. In my job I'm working directly with Java and sometimes with React.
+My name is Gabriel Silva Soares from Brazil (🇧🇷). I work as a Software Developer at **Invillia in a PagSeguro/PagBank**'s project. I am currently focusing my studies on the Front-end. In my job I'm working directly with Front End ecosystem using React.
 🎓 I'm graduated in Information Systems (Bachelor).
 
 I started to study programming when I was 17 years old, since then I'm on this world of coffee ☕ and code 💻.
