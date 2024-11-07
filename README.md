@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 
 ### Hi there! 😄
 
-My name is Gabriel Silva Soares from Brazil (🇧🇷). I work as a Software Developer at **Devoteam Portugal in an ERIKS Digital**'s project. I am currently focusing my studies on the Front-end. In my job I'm working directly with Front End ecosystem.
+My name is Gabriel Silva Soares from Brazil (🇧🇷). I work as a Software Developer at **Devoteam Portugal in an ERIKS Digital**'s project. My studies focus is on the **Front-end**. In my job I'm working directly with React and the Front End ecosystem itself.
 🎓 I'm graduated in Information Systems (Bachelor).
-
-I started to study programming when I was 17 years old, since then I'm on this world of coffee ☕ and code 💻.
 
 In my free time I like to 🎞️ Watch movies and 📺 series, 📚 Read books, 🎵 listen to music, 💻 code (ofc) and ✈️ travel.
 
-Would you like to talk to me? Feel free to contact me!
+Would you like to talk? Feel free to contact me!
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-brown?logo=instagram&style=flat-square&logoColor=white&link=https://instagram.com/gs.slva)](https://instagram.com/sgabriel.dev)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabrielgyns)](https://twitter.com/gsslva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielgyns)](https://www.linkedin.com/in/gabrielgyns)
