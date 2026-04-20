@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 😄
 
-My name is Gabriel Silva Soares from Brazil (🇧🇷). I work as a Software Developer at **Devoteam Portugal in an Securex**'s project. My studies focus is on the **Front-end**. In my job I'm working directly with React and the Front End ecosystem itself.
+My name is Gabriel Silva Soares from Brazil (🇧🇷). I work as a Software Developer at **Feedzai**. My studies focus is on the **Front-end**. In my job I'm working directly with React and the Front End ecosystem itself.
 🎓 I'm graduated in Information Systems (Bachelor).
 
 In my free time I like to 🎞️ Watch movies and 📺 series, 📚 Read books, 🎵 listen to music, 💻 code (ofc) and ✈️ travel.
